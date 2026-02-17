@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Example</title>
+</head>
+<body>
+
+    <h2>TRAINING SESSIION TIME TABLE</h2>
+
+    <table border="1" cellpadding="10">
+        <tr>
+           
+            <th>Day</th>
+            <th>9-10(AM)</th>
+            <th>10-11(AM)</th>
+            <th>12-3(PM)</th>
+            <th>10 (PM)-12:30(AM)</th>
+        </tr>
+
+        <tr>
+            <td>Monday</td>
+            <td>Giyu
+            </td>
+            <td>Sanime</td>
+            <td>rengoku</td>
+            <td>Mitsuri</td>
+        </tr>
+
+        <tr>
+            <td>Tuesday</td>
+            <td>kokushibo</td>
+            <td>akaza</td>
+            <td>duma</td>
+            <td>gyutaro</td>
+        </tr>
+
+        <tr>
+            <td colspan="">Wednesday</td>
+            <td colspan="2" align="center">yorichi</td>
+            <td colspan="2" align="center">Muzaan</td>
+          
+        </tr>
+    </table>
+
+    <br><br>
+
+    <h2>Student Record</h2>
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Standing</th>
+            <th>Name</th>
+            <th>Remark</th>
+            <th>Breathing style </th>
+        </tr>
+
+        <tr>
+            <td>1</td>
+            <td>TANJIRO</td>
+            
+            <td>HE CAN KILL MUZAN</td>
+            <td>HINOKAMI KAGURA</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td>ZENITSU</td>
+            <td>HE AN KILL ANY BODY IN A SINGLE STRICK</td>
+            <td>THUNDER CLAP AND FLASH</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td>INOSUKE</td>
+            <td>HE CAN KILL UPTO UPPER RANK 4</td>
+            <td>SLICE 'N' DICE</td>
+        </tr>
+    </table>
+
+</body>
+</html>
